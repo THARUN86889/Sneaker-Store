@@ -64,16 +64,16 @@ const products = [
   },
   {
     id: 5,
-    title: "Hipple",
+    title: "Hippie",
     price: 99,
     colors: [
       {
         code: "gray",
-        img: "./img/hipple.png",
+        img: "./img/hippie.png",
       },
       {
         code: "black",
-        img: "./img/hipple2.png",
+        img: "./img/hippie2.png",
       },
     ],
   },
